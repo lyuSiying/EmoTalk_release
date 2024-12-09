@@ -14,8 +14,8 @@ revisedDesign/        # 我们的工作汇总
   ├── test_for_final/   # 测试老师测试集的各项评价指标
   ├── train/            # 将原仓库的推理模型改为训练模型
 其他工作/              # 不定时更新
+```
 
-```plaintext
 1. originalCodeBackup
 这是我们 fork 的原始仓库，保留为备份。
 2. revisedDesign
