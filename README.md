@@ -16,21 +16,30 @@ revisedDesign/        # 我们的工作汇总
 其他工作/              # 不定时更新
 ```
 
-1. originalCodeBackup
+
+# 项目说明
+
+## 1. originalCodeBackup
 这是我们 fork 的原始仓库，保留为备份。
-2. revisedDesign
+
+## 2. revisedDesign
 我们的主要工作汇总，包括以下子模块：
-2.1 EmoTalk
+
+### 2.1 EmoTalk
 修改后的可运行项目。
-注意事项：
-需要手动下载以下模型并放置到指定目录：
-wav2vec2-large-xlsr-53-english 和 wav2vec-english-speech-emotion-recognition，下载后存放至 models/ 文件夹。
-EmoTalk.pth，下载后存放至 pretrain_model/ 文件夹。
-其他具体信息参考环境部署教程。
-2.2 test_for_final
+
+**注意事项**：
+- 需要手动下载以下模型并放置到指定目录：
+  - **`wav2vec2-large-xlsr-53-english`** 和 **`wav2vec-english-speech-emotion-recognition`**，下载后存放至 `models/` 文件夹。
+  - **`EmoTalk.pth`**，下载后存放至 `pretrain_model/` 文件夹。
+- 其他具体信息参考[环境部署教程](#环境部署教程)。
+
+### 2.2 test_for_final
 用于测试老师提供的测试集，计算各项评价指标。
-2.3 train
+
+### 2.3 train
 将原仓库的推理模型修改为训练模型，实现自定义训练功能。
-3. 其他工作
-其他内容会不定时更新，README.md 将同步更新。
-如果最终老师的仓库要求不需要提交某些工作，可以直接通过链接跳转到本项目。
+
+## 3. 其他工作
+- 其他内容会不定时更新，`README.md` 将同步更新。
+- 如果最终老师的仓库要求不需要提交某些工作，可以直接通过链接跳转到本项目。
