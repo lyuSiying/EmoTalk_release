@@ -32,7 +32,7 @@ revisedDesign/        # 我们的工作汇总
 - 需要手动下载以下模型并放置到指定目录：
   - **`wav2vec2-large-xlsr-53-english`** 和 **`wav2vec-english-speech-emotion-recognition`**，下载后存放至 `models/` 文件夹。
   - **`EmoTalk.pth`**，下载后存放至 `pretrain_model/` 文件夹。
-- 其他具体信息参考[环境部署教程](#环境部署教程)。
+- 其他具体信息参考[环境部署教程](revisedDesign/EmoTalk#readme)。
 
 ### 2.2 test_for_final
 用于测试老师提供的测试集，计算各项评价指标。
