@@ -12,6 +12,12 @@
 链接：https://pan.baidu.com/s/1Jujn-PDhUfhRrqJB2xDCCQ?pwd=lqfs 
 提取码：lqfs
 
+### 邮件记录和氪金记录：
+
+![image-20241215230317366](D:\emotalk-test\revisedDesign\train\image\media\image10.png)
+
+![image-20241215230102442](D:\emotalk-test\revisedDesign\train\image\media\image9.png)
+
 ## 1.3D-ETF数据集
 
 数据集包括两个广泛使用的 2D 视听数据集，RAVDESS和HDTF。 RAVDESS数据，也被称为瑞尔森情感言语和歌曲的视听数据库，是一个多模态情绪识别数据集，由24 名演员（12 名男性，12名女性）和1440个简短演讲视频剪辑组成。该数据集是通过高质量的音频和视频记录捕获的，并指示演员表达特定的情绪，包括中性、平静、快乐、悲伤、愤怒、恐惧、厌恶和惊讶。HDTF数据集是过去几年从YouTube
