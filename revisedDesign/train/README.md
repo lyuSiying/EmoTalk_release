@@ -14,9 +14,9 @@
 
 ### 邮件记录&氪金记录：
 
-![image-20241215230317366](D:\emotalk-test\revisedDesign\train\image\media\image10.png)
+![image-20241215230317366](.\image\media\image10.png)
 
-![image-20241215230102442](D:\emotalk-test\revisedDesign\train\image\media\image9.png)
+![image-20241215230102442](.\image\media\image9.png)
 
 训练部分所有资料和成功均已发到助教邮箱，后面内容就是《代码说明报告》：
 
