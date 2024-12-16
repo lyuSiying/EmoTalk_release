@@ -1,22 +1,24 @@
 # Emotalk训练
 
-### 最终模型：
+### 我们复现的最终模型：
 
 通过网盘分享的文件：emotalk_model_only_params.pth
 链接: https://pan.baidu.com/s/1EkeNTIqZ5QIZwLBmYHSGVA?pwd=fiuu 提取码: fiuu 
 --来自百度网盘超级会员v5的分享
 
-### 训练视频：
+### 训练代码讲解视频：
 
 通过百度网盘分享的文件：Emotalk训练代码解释视频.mp4
 链接：https://pan.baidu.com/s/1Jujn-PDhUfhRrqJB2xDCCQ?pwd=lqfs 
 提取码：lqfs
 
-### 邮件记录和氪金记录：
+### 邮件记录&氪金记录：
 
 ![image-20241215230317366](D:\emotalk-test\revisedDesign\train\image\media\image10.png)
 
 ![image-20241215230102442](D:\emotalk-test\revisedDesign\train\image\media\image9.png)
+
+训练部分所有资料和成功均已发到助教邮箱，后面内容就是《代码说明报告》：
 
 ## 1.3D-ETF数据集
 
